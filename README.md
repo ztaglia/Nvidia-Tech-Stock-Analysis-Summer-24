@@ -14,13 +14,6 @@
   frameborder="0"
 ></iframe>
 
-<iframe
-  src="files/candlestick_plots.html"
-  width="800"
-  height="3000"
-  frameborder="0"
-></iframe>
-
 ### Nvidia Stock Data
 
 ```py
