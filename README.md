@@ -1,1 +1,1 @@
-# Nvidia-Tech-Stock-Analysis-Summer-24
+# Nvidia: The Tech Titan of Summer '24
